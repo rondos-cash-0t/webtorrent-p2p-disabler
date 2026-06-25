@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         P2P Disabler
 // @description  P2P Disabler
-// ---- tvwiki
+// @note  ---- tvwiki
 // @match        https://tvwiki31.net/*
 // @match        https://tvwiki32.net/*
 // @match        https://tvwiki33.net/*
@@ -9,7 +9,7 @@
 // @match        https://tvwiki35.net/*
 // @match        https://player.bunny-frame.online/*
 // @match        https://*.bunny-frame.online/*
-// ---- newtoki (toki)
+// @note  ---- newtoki (toki)
 // @match        https://sbxh8.com/*
 // @match        https://sbxh9.com/*
 // @match        https://sbxh10.com/*
@@ -18,12 +18,12 @@
 // @match        https://toki27.com/*
 // @match        https://toki28.com/*
 // @match        https://aniplayer1.site/*
-// ---- anilife
+// @note  ---- anilife
 // @match        https://*.anilife.app/*
 // @match        https://anilife.app/*
 // @match        https://*.gcdn.app/*
 // @match        https://gcdn.app/*
-// ---- other...
+// @note  ---- other...
 // @downloadURL  https://github.com/rondos-cash-0t/webtorrent-p2p-disabler/raw/refs/heads/main/p2p-disable.user.js
 // @updateURL    https://github.com/rondos-cash-0t/webtorrent-p2p-disabler/raw/refs/heads/main/p2p-disable.user.js
 // @run-at       document-start
